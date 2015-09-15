@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/9/15 20:51:41。
+     1>项目“C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\VideoMFC\VideoMFC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VideoMFC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt socket_get.cpp
+         socket_get.cpp
+     1>c:\users\fangli\desktop\master\opencv_facerecognition-master\facerecognition\videomfc\videomfc\socket_get.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.exe" /INCREMENTAL /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_contrib2410.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.lib" /MACHINE:X86 Debug\VideoMFC.res
+         Debug\CvvImage.obj
+         Debug\detect_recog.obj
+         Debug\parseXML.obj
+         Debug\socket_get.obj
+         Debug\sock_send.obj
+         Debug\stdafx.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\VideoMFC.obj
+         Debug\VideoMFCDlg.obj
+         VideoMFC.vcxproj -> C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.exe
+     1>已完成生成项目“C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\VideoMFC\VideoMFC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38

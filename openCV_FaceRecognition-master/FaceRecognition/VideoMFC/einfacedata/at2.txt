@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\OpenCV的人脸验证MFC程序\OpenCV的人脸验证MFC程序\VideoMFC\einfacedata\trainingdata\17.jpg;1
+C:\Users\lenovo\Desktop\OpenCV的人脸验证MFC程序\OpenCV的人脸验证MFC程序\VideoMFC\einfacedata\trainingdata\18.jpg;2
+C:\Users\lenovo\Desktop\OpenCV的人脸验证MFC程序\OpenCV的人脸验证MFC程序\VideoMFC\einfacedata\trainingdata\19.jpg;1
+C:\Users\lenovo\Desktop\OpenCV的人脸验证MFC程序\OpenCV的人脸验证MFC程序\VideoMFC\einfacedata\trainingdata\2.jpg;2
+（用于行为识别）
