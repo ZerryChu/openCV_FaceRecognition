@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person-information>
+  <person id="1">
+    <name>zirui</name>
+    <info>...</info>
+  </person>
+  <person id="2">
+    <name>furui</name>
+    <info >...</info>
+  </person>
+  <person id="3">
+    <name>bingan</name>
+    <info>...</info>
+  </person>
+  <person id="4">
+    <name>yumin</name>
+    <info>...</info>
+  </person>
+  <person id="5">
+    <name>wata</name>
+    <info >...</info>
+  </person>
+</person-information>

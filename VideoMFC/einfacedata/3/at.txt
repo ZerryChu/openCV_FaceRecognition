@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\1.jpg;1

@@ -1,9 +1,0 @@
-C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\17.jpg;1
-
-C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\18.jpg;2
-
-C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\19.jpg;1
-
-C:\Users\fangli\Desktop\master\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\2.jpg;2
-
-

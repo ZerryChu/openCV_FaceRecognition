@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\11.jpg;1
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\12.jpg;1
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\14.jpg;1
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\6.jpg;3
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\7.jpg;3
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\8.jpg;3
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\9.jpg;3
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\16.jpg;1
+C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\einfacedata\trainingdata\17.jpg;1
