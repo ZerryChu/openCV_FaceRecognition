@@ -1,0 +1,52 @@
+﻿生成启动时间为 2016/6/1 19:33:09。
+     1>项目“C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\VideoMFC\VideoMFC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VideoMFC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VideoMFCDlg.cpp detect_recog.cpp parse_XML.cpp socket_get.cpp
+         VideoMFCDlg.cpp
+     1>c:\users\administrator\desktop\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\videomfcdlg.cpp(343): warning C4101: “tipPhoto”: 未引用的局部变量
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\videomfcdlg.cpp(407): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\videomfcdlg.cpp(469): warning C4101: “e”: 未引用的局部变量
+         正在生成代码...
+         正在编译...
+         socket_get.cpp
+     1>c:\users\administrator\desktop\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\socket_get.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         parse_XML.cpp
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\parse_xml.cpp(52): warning C4101: “e”: 未引用的局部变量
+         detect_recog.cpp
+     1>c:\users\administrator\desktop\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\detect_recog.cpp(77): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\detect_recog.cpp(176): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\detect_recog.cpp(201): warning C4101: “nested_objects”: 未引用的局部变量
+     1>c:\users\administrator\desktop\opencv_facerecognition-master\facerecognition\videomfc\videomfc\detect_recog.cpp(290): warning C4101: “j”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.exe" /INCREMENTAL /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_contrib2410.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.lib" /MACHINE:X86 Debug\VideoMFC.res
+         Debug\CvvImage.obj
+         Debug\detect_recog.obj
+         Debug\eigenfaces.obj
+         Debug\helper.obj
+         Debug\main.obj
+         Debug\parse_XML.obj
+         Debug\socket_get.obj
+         Debug\socket_send.obj
+         Debug\stdafx.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\VideoMFC.obj
+         Debug\VideoMFCDlg.obj
+         Debug\handleResult.obj
+         VideoMFC.vcxproj -> C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\Debug\VideoMFC.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\openCV_FaceRecognition-master\FaceRecognition\VideoMFC\VideoMFC\VideoMFC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.36

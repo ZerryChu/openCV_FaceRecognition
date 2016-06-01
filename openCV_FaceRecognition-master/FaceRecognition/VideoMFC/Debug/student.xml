@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<person-information>
+	
+    <person id="1">
+		
+        <name>Zirui Zhu</name>
+		
+        <info>...</info>
+	
+    </person>
+	
+    <person id="2">
+		
+        <name>Furui Zhang</name>
+		
+        <info>...</info>
+	
+    </person>
+	
+    <person id="3">
+		
+        <name>Bingjun Gan</name>
+		
+        <info>...</info>
+	
+    </person>
+	
+    <person id="4">
+		
+        <name>Yumin Guo</name>
+		
+        <info>...</info>
+	
+    </person>
+	
+    <person id="5">
+		
+        <name>wata</name>
+		
+        <info>...</info>
+	
+    </person>
+
+</person-information>
